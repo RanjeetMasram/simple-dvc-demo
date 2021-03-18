@@ -1,6 +1,6 @@
 ## read params
 ## process
-## return datafram
+## return dataframe
 import os
 import yaml
 import pandas as pd
