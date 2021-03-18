@@ -21,5 +21,5 @@ files = [
 ]
 
 for file_ in files:
-    with open(file_, "w") as f:
+    with open(file_, "a") as f:
         pass
