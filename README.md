@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 download the data from 
 
-https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5?usp=sharing
+https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 ```bash
 git init
