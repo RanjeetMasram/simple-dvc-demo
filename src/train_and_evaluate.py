@@ -1,4 +1,4 @@
-# load the train and test
+# load the train and tests
 # train algo
 # save the metrics, params
 
