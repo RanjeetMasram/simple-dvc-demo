@@ -1,5 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="src"
+    name="src",
+    version="0.0.1",
+    description="it a wine q package",
+    author="RanjeetMasram",
+    packages=find_packages(),
+    license="MIT"
 )
