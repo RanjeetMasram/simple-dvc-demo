@@ -1,7 +1,7 @@
 # split the raw data
 # save it in data/processed folder
 
-import os
+# import os
 import argparse
 import pandas as pd
 from sklearn.model_selection import train_test_split

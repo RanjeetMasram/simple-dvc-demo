@@ -1,7 +1,7 @@
 # read data from data source
 # Save in the data/raw for further further process
 
-import os 
+
 from get_data import read_params, get_data
 import argparse
 

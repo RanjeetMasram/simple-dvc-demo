@@ -7,4 +7,6 @@ dvc[gdrive]
 sklearn
 pandas
 pytest
+joblib
 tox
+flake8

@@ -69,6 +69,14 @@ pytest command
 pytest -v
 ```
 
+```bash
+setup.py 
+============
+Help you to create your own package 
+It will identify where the __init__ file is present in which folder. 
+It will treat it as a python package and it will create a package for you 
+```
+
 setup commands -
 ```bash
 pip install -e . 
@@ -77,4 +85,9 @@ pip install -e .
 build your own package commands- 
 ```bash
 python setup.py sdist bdist_wheel
+```
+
+```bash
+Pep 8 - python conding style
+library/package: flake8
 ```
