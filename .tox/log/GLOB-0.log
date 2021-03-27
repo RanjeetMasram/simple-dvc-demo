@@ -22,6 +22,7 @@ copying files to src-0.0.1...
 copying README.md -> src-0.0.1
 copying setup.py -> src-0.0.1
 copying prediction_service\__init__.py -> src-0.0.1\prediction_service
+copying prediction_service\prediction.py -> src-0.0.1\prediction_service
 copying src\__init__.py -> src-0.0.1\src
 copying src\get_data.py -> src-0.0.1\src
 copying src\load_data.py -> src-0.0.1\src
@@ -40,6 +41,7 @@ adding 'src-0.0.1\PKG-INFO'
 adding 'src-0.0.1\README.md'
 adding 'src-0.0.1\setup.cfg'
 adding 'src-0.0.1\setup.py'
+adding 'src-0.0.1\prediction_service\prediction.py'
 adding 'src-0.0.1\prediction_service\__init__.py'
 adding 'src-0.0.1\src\get_data.py'
 adding 'src-0.0.1\src\load_data.py'

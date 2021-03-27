@@ -91,3 +91,13 @@ python setup.py sdist bdist_wheel
 Pep 8 - python conding style
 library/package: flake8
 ```
+```bash
+
+create an artifacts folder
+
+mlflow server command -
+
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts --host 0.0.0.0 -p 1234
+
+```
+
